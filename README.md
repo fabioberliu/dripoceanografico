@@ -109,7 +109,8 @@ Date: Fri Apr 28 09:47:49 2023 +0200
 
     Initial commit
 
-$ git add --help
+$ git add file 
+<!-- aggiunge file con modifiche allo stage in modo da poter committare -->
 
 $ git config --global user.name "fabioberliu"
 
