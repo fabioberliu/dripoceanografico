@@ -133,3 +133,25 @@ cat
 % protocollo di comunicazione ssh usato per interagire in remoto ad un terminale e impartire comandi ad altri computer e trasferire i file in remoto con ssh e usa le chiavi private e pubbliche per autenticarsi dell'algoritmo criptografico rsa
 
 SIUUUUUUUUUUM
+    
+    
+    
+    BERLIU@LAB4-16 MINGW64 ~/siuuu/dripoceanografico (main)
+$ git add README.md 
+
+BERLIU@LAB4-16 MINGW64 ~/siuuu/dripoceanografico (main)
+$ git commit -m "ULTIMOAGG"
+[main c9ae974] ULTIMOAGG        
+ 1 file changed, 2 insertions(+)
+
+BERLIU@LAB4-16 MINGW64 ~/siuuu/dripoceanografico (main)
+$ git push origin main
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 281 bytes | 281.00 KiB/s, done.
+Total 3 (delta 1), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/fabioberliu/dripoceanografico.git
+   0784f80..c9ae974  main -> main
