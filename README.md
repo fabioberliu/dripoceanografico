@@ -131,3 +131,5 @@ cat
 % stampa contenuto file testo
 
 % protocollo di comunicazione ssh usato per interagire in remoto ad un terminale e impartire comandi ad altri computer e trasferire i file in remoto con ssh e usa le chiavi private e pubbliche per autenticarsi dell'algoritmo criptografico rsa
+
+SIUUUUUUUUUUM
